@@ -1,4 +1,5 @@
 # ⚽ Análise de Jogadores Estrangeiros no Brasileirão 📊
+#🐍Web Scraping utilizando Python e Selenium🐍#
 
 ## 📌 Sobre o Projeto
 Este projeto tem como objetivo **extrair, armazenar e analisar** dados sobre jogadores estrangeiros que atuaram no **Campeonato Brasileiro Série A** ao longo dos últimos **29 anos**.  
